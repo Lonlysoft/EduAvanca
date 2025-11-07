@@ -8,7 +8,7 @@ Baseado na premissa da ODS 4.2. Aqui apresenta-se um protótipo de uma plataform
 Tecnologias Usadas
 -
 
-<span color = "#762">HTML</span>, <span color = "#627">CSS</span>, <span color = "cyan">JS + React.js</span>
+<span color = "#776622">HTML</span>, <span color = "#627">CSS</span>, <span color = "cyan">JS + React.js</span>
 
 <!--
 uma plataforma de microcursos para os educadores e gestores poderem se capacitar em boas praticas na educação infantil.
